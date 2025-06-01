@@ -1,7 +1,6 @@
 import sys 
 #checking pytohn version for smooth execution 
 
-import sys 
 
 if sys.version_info<(3,5):
 	sys.exit("from intern  update python to 3.5 or later") 
