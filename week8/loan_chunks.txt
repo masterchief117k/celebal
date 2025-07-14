@@ -1,0 +1,614 @@
+The applicant is a Male with Graduate education, earning ₹5849, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4583, requesting ₹128.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3000, requesting ₹66.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2583, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6000, requesting ₹141.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5417, requesting ₹267.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2333, requesting ₹95.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3036, requesting ₹158.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4006, requesting ₹168.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹12841, requesting ₹349.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3200, requesting ₹70.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2500, requesting ₹109.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3073, requesting ₹200.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1853, requesting ₹114.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹1299, requesting ₹17.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4950, requesting ₹125.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3596, requesting ₹100.0. Credit history: nan. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3510, requesting ₹76.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹4887, requesting ₹133.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2600, requesting ₹115.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹7660, requesting ₹104.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5955, requesting ₹315.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2600, requesting ₹116.0. Credit history: 0.0. Loan status: N.
+The applicant is a nan with Not Graduate education, earning ₹3365, requesting ₹112.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3717, requesting ₹151.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹9560, requesting ₹191.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2799, requesting ₹122.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4226, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹1442, requesting ₹35.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3750, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4166, requesting ₹201.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3167, requesting ₹74.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4692, requesting ₹106.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3500, requesting ₹114.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹12500, requesting ₹320.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2275, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1828, requesting ₹100.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3667, requesting ₹144.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4166, requesting ₹184.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3748, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3600, requesting ₹80.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹1800, requesting ₹47.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2400, requesting ₹75.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3941, requesting ₹134.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4695, requesting ₹96.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3410, requesting ₹88.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5649, requesting ₹44.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5821, requesting ₹144.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2645, requesting ₹120.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹4000, requesting ₹144.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹1928, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3086, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4230, requesting ₹112.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4616, requesting ₹134.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹11500, requesting ₹286.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2708, requesting ₹97.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2132, requesting ₹96.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3366, requesting ₹135.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹8080, requesting ₹180.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3357, requesting ₹144.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2500, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3029, requesting ₹99.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2609, requesting ₹165.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4945, requesting ₹nan. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹4166, requesting ₹116.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5726, requesting ₹258.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹3200, requesting ₹126.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹10750, requesting ₹312.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹7100, requesting ₹125.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4300, requesting ₹136.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3208, requesting ₹172.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹1875, requesting ₹97.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3500, requesting ₹81.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4755, requesting ₹95.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5266, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3750, requesting ₹113.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3750, requesting ₹176.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹1000, requesting ₹110.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3167, requesting ₹180.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹3333, requesting ₹130.0. Credit history: nan. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3846, requesting ₹111.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2395, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹1378, requesting ₹167.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6000, requesting ₹265.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3988, requesting ₹50.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2366, requesting ₹136.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3333, requesting ₹99.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2500, requesting ₹104.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8566, requesting ₹210.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5695, requesting ₹175.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2958, requesting ₹131.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6250, requesting ₹188.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3273, requesting ₹81.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4133, requesting ₹122.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3620, requesting ₹25.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6782, requesting ₹nan. Credit history: nan. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹2484, requesting ₹137.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1977, requesting ₹50.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4188, requesting ₹115.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1759, requesting ₹131.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4288, requesting ₹133.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4843, requesting ₹151.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹13650, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4652, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3816, requesting ₹160.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3052, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹11417, requesting ₹225.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹7333, requesting ₹120.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3800, requesting ₹216.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2071, requesting ₹94.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5316, requesting ₹136.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2929, requesting ₹139.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3572, requesting ₹152.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹7451, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5050, requesting ₹118.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹14583, requesting ₹185.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3167, requesting ₹154.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2214, requesting ₹85.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5568, requesting ₹175.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹10408, requesting ₹259.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5667, requesting ₹180.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4166, requesting ₹44.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2137, requesting ₹137.0. Credit history: 0.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2957, requesting ₹81.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4300, requesting ₹194.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3692, requesting ₹93.0. Credit history: nan. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹23803, requesting ₹370.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3865, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹10513, requesting ₹160.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6080, requesting ₹182.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹20166, requesting ₹650.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2014, requesting ₹74.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2718, requesting ₹70.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3459, requesting ₹25.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4895, requesting ₹102.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4000, requesting ₹290.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹4583, requesting ₹84.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3316, requesting ₹88.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹14999, requesting ₹242.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹4200, requesting ₹129.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5042, requesting ₹185.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5417, requesting ₹168.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6950, requesting ₹175.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2698, requesting ₹122.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹11757, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2330, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹14866, requesting ₹70.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1538, requesting ₹30.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹10000, requesting ₹225.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4860, requesting ₹125.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6277, requesting ₹118.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2577, requesting ₹152.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9166, requesting ₹244.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2281, requesting ₹113.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3254, requesting ₹50.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹39999, requesting ₹600.0. Credit history: 0.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6000, requesting ₹160.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9538, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2980, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4583, requesting ₹255.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹1863, requesting ₹98.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7933, requesting ₹275.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3089, requesting ₹121.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4167, requesting ₹158.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9323, requesting ₹75.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3707, requesting ₹182.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4583, requesting ₹112.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2439, requesting ₹129.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2237, requesting ₹63.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹8000, requesting ₹200.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹1820, requesting ₹95.0. Credit history: 1.0. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹51763, requesting ₹700.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3522, requesting ₹81.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5708, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4344, requesting ₹87.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3497, requesting ₹116.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2045, requesting ₹101.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5516, requesting ₹495.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3750, requesting ₹116.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2333, requesting ₹102.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6400, requesting ₹180.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹1916, requesting ₹67.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4600, requesting ₹73.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹33846, requesting ₹260.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3625, requesting ₹108.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹39147, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2178, requesting ₹66.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2383, requesting ₹58.0. Credit history: nan. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹674, requesting ₹168.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9328, requesting ₹188.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4885, requesting ₹48.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹12000, requesting ₹164.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹6033, requesting ₹160.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3858, requesting ₹76.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4191, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3125, requesting ₹170.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹8333, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹1907, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3416, requesting ₹113.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹11000, requesting ₹83.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2600, requesting ₹90.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4923, requesting ₹166.0. Credit history: 0.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3992, requesting ₹nan. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹3500, requesting ₹135.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3917, requesting ₹124.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹4408, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3244, requesting ₹80.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3975, requesting ₹55.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2479, requesting ₹59.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3418, requesting ₹127.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹10000, requesting ₹214.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3430, requesting ₹128.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹7787, requesting ₹240.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹5703, requesting ₹130.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3173, requesting ₹137.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3850, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹150, requesting ₹135.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3727, requesting ₹131.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5000, requesting ₹72.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹4283, requesting ₹127.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2221, requesting ₹60.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4009, requesting ₹116.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2971, requesting ₹144.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7578, requesting ₹175.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6250, requesting ₹128.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3250, requesting ₹170.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹4735, requesting ₹138.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6250, requesting ₹210.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4758, requesting ₹158.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6400, requesting ₹200.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2491, requesting ₹104.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3716, requesting ₹42.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3189, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹8333, requesting ₹280.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3155, requesting ₹140.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5500, requesting ₹170.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5746, requesting ₹255.0. Credit history: nan. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3463, requesting ₹122.0. Credit history: nan. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3812, requesting ₹112.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3315, requesting ₹96.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5819, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2510, requesting ₹140.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2965, requesting ₹155.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6250, requesting ₹108.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3406, requesting ₹123.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6050, requesting ₹120.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹9703, requesting ₹112.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹6608, requesting ₹137.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2882, requesting ₹123.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1809, requesting ₹90.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹1668, requesting ₹201.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3427, requesting ₹138.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2583, requesting ₹104.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2661, requesting ₹279.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹16250, requesting ₹192.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3083, requesting ₹255.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹6045, requesting ₹115.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5250, requesting ₹94.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹14683, requesting ₹304.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹4931, requesting ₹128.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6083, requesting ₹330.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2060, requesting ₹134.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3481, requesting ₹155.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹7200, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5166, requesting ₹128.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4095, requesting ₹151.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4708, requesting ₹150.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4333, requesting ₹160.0. Credit history: 0.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3418, requesting ₹135.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹2876, requesting ₹90.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3237, requesting ₹30.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹11146, requesting ₹136.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2833, requesting ₹126.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2620, requesting ₹150.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3900, requesting ₹90.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2750, requesting ₹115.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3993, requesting ₹207.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3103, requesting ₹80.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹14583, requesting ₹436.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹4100, requesting ₹124.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4053, requesting ₹158.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3927, requesting ₹112.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2301, requesting ₹78.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹1811, requesting ₹54.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹20667, requesting ₹nan. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3158, requesting ₹89.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2600, requesting ₹99.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3704, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4124, requesting ₹115.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9508, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3075, requesting ₹139.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4400, requesting ₹127.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3153, requesting ₹134.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹5417, requesting ₹143.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2383, requesting ₹172.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4416, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6875, requesting ₹200.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4666, requesting ₹135.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹5000, requesting ₹151.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2014, requesting ₹113.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹1800, requesting ₹93.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2875, requesting ₹105.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹5000, requesting ₹132.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1625, requesting ₹96.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4000, requesting ₹140.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2000, requesting ₹nan. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3762, requesting ₹135.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2400, requesting ₹104.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹20233, requesting ₹480.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹7667, requesting ₹185.0. Credit history: nan. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2917, requesting ₹84.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2927, requesting ₹111.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2507, requesting ₹56.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5746, requesting ₹144.0. Credit history: nan. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹2473, requesting ₹159.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹3399, requesting ₹111.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3717, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2058, requesting ₹88.0. Credit history: nan. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3541, requesting ₹112.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹10000, requesting ₹155.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2400, requesting ₹115.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4342, requesting ₹124.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3601, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3166, requesting ₹132.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹15000, requesting ₹300.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8666, requesting ₹376.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4917, requesting ₹130.0. Credit history: 0.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5818, requesting ₹184.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4333, requesting ₹110.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹2500, requesting ₹67.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4384, requesting ₹117.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2935, requesting ₹98.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2833, requesting ₹71.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹63337, requesting ₹490.0. Credit history: 1.0. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹9833, requesting ₹182.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5503, requesting ₹70.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5250, requesting ₹160.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2500, requesting ₹176.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹1830, requesting ₹nan. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹4160, requesting ₹71.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2647, requesting ₹173.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹2378, requesting ₹46.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹4554, requesting ₹158.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3173, requesting ₹74.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2583, requesting ₹125.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2499, requesting ₹160.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3523, requesting ₹152.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹3083, requesting ₹126.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6333, requesting ₹259.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2625, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9083, requesting ₹228.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8750, requesting ₹308.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2666, requesting ₹95.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹5500, requesting ₹105.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹2423, requesting ₹130.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3813, requesting ₹116.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8333, requesting ₹165.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3875, requesting ₹67.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹3000, requesting ₹100.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5167, requesting ₹200.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4723, requesting ₹81.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5000, requesting ₹236.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4750, requesting ₹130.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3013, requesting ₹95.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6822, requesting ₹141.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹6216, requesting ₹133.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2500, requesting ₹96.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5124, requesting ₹124.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6325, requesting ₹175.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹19730, requesting ₹570.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹15759, requesting ₹55.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5185, requesting ₹155.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9323, requesting ₹380.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3062, requesting ₹111.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹2764, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4817, requesting ₹120.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8750, requesting ₹130.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4310, requesting ₹130.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3069, requesting ₹71.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5391, requesting ₹130.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3333, requesting ₹128.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5941, requesting ₹296.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹6000, requesting ₹156.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7167, requesting ₹128.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4566, requesting ₹100.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3667, requesting ₹113.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2346, requesting ₹132.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3010, requesting ₹nan. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2333, requesting ₹136.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5488, requesting ₹125.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9167, requesting ₹185.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹9504, requesting ₹275.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2583, requesting ₹120.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹1993, requesting ₹113.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3100, requesting ₹113.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3276, requesting ₹135.0. Credit history: nan. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3180, requesting ₹71.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3033, requesting ₹95.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3902, requesting ₹109.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹1500, requesting ₹103.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2889, requesting ₹45.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2755, requesting ₹65.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2500, requesting ₹103.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹1963, requesting ₹53.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹7441, requesting ₹194.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹4547, requesting ₹115.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2167, requesting ₹115.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹2213, requesting ₹66.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8300, requesting ₹152.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹81000, requesting ₹360.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Not Graduate education, earning ₹3867, requesting ₹62.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6256, requesting ₹160.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹6096, requesting ₹218.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2253, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹2149, requesting ₹178.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹2995, requesting ₹60.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2600, requesting ₹160.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹1600, requesting ₹239.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹1025, requesting ₹112.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3246, requesting ₹138.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5829, requesting ₹138.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹2720, requesting ₹80.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹1820, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7250, requesting ₹110.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹14880, requesting ₹96.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2666, requesting ₹121.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹4606, requesting ₹81.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5935, requesting ₹133.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2920, requesting ₹87.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2717, requesting ₹60.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹8624, requesting ₹150.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6500, requesting ₹105.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹12876, requesting ₹405.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2425, requesting ₹143.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3750, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹10047, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1926, requesting ₹50.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2213, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹10416, requesting ₹187.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Not Graduate education, earning ₹7142, requesting ₹138.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3660, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7901, requesting ₹180.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4707, requesting ₹148.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹37719, requesting ₹152.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7333, requesting ₹175.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3466, requesting ₹130.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4652, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3539, requesting ₹55.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3340, requesting ₹150.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2769, requesting ₹190.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2309, requesting ₹125.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹1958, requesting ₹60.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3948, requesting ₹149.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2483, requesting ₹90.0. Credit history: 0.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7085, requesting ₹84.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3859, requesting ₹96.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4301, requesting ₹118.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3708, requesting ₹173.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4354, requesting ₹136.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8334, requesting ₹160.0. Credit history: 1.0. Loan status: N.
+The applicant is a nan with Graduate education, earning ₹2083, requesting ₹160.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7740, requesting ₹128.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3015, requesting ₹153.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹5191, requesting ₹132.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4166, requesting ₹98.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6000, requesting ₹140.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2947, requesting ₹70.0. Credit history: 0.0. Loan status: N.
+The applicant is a nan with Graduate education, earning ₹16692, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹210, requesting ₹98.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4333, requesting ₹110.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3450, requesting ₹162.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2653, requesting ₹113.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4691, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2500, requesting ₹93.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5532, requesting ₹162.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹16525, requesting ₹150.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6700, requesting ₹230.0. Credit history: 1.0. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹2873, requesting ₹132.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹16667, requesting ₹86.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2947, requesting ₹nan. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Not Graduate education, earning ₹4350, requesting ₹154.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3095, requesting ₹113.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2083, requesting ₹128.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹10833, requesting ₹234.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8333, requesting ₹246.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹1958, requesting ₹131.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3547, requesting ₹80.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹18333, requesting ₹500.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4583, requesting ₹160.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2435, requesting ₹75.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2699, requesting ₹96.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹5333, requesting ₹186.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3691, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹17263, requesting ₹225.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3597, requesting ₹119.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3326, requesting ₹105.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2600, requesting ₹107.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4625, requesting ₹111.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2895, requesting ₹95.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6283, requesting ₹209.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹645, requesting ₹113.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹3159, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4865, requesting ₹208.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹4050, requesting ₹138.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹3814, requesting ₹124.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3510, requesting ₹243.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹20833, requesting ₹480.0. Credit history: nan. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹3583, requesting ₹96.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2479, requesting ₹188.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹13262, requesting ₹40.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3598, requesting ₹100.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6065, requesting ₹250.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3283, requesting ₹148.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2130, requesting ₹70.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5815, requesting ₹311.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3466, requesting ₹150.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2031, requesting ₹113.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3074, requesting ₹123.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4683, requesting ₹185.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Not Graduate education, earning ₹3400, requesting ₹95.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2192, requesting ₹45.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2500, requesting ₹55.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5677, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7948, requesting ₹480.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4680, requesting ₹nan. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹17500, requesting ₹400.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3775, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹5285, requesting ₹161.0. Credit history: 0.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2679, requesting ₹94.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹6783, requesting ₹130.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1025, requesting ₹216.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4281, requesting ₹100.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3588, requesting ₹110.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹11250, requesting ₹196.0. Credit history: nan. Loan status: N.
+The applicant is a Female with Not Graduate education, earning ₹18165, requesting ₹125.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2550, requesting ₹126.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6133, requesting ₹324.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3617, requesting ₹107.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2917, requesting ₹66.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6417, requesting ₹157.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4608, requesting ₹140.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2138, requesting ₹99.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3652, requesting ₹95.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2239, requesting ₹128.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹3017, requesting ₹102.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2768, requesting ₹155.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3358, requesting ₹80.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2526, requesting ₹145.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹5000, requesting ₹103.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2785, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6633, requesting ₹nan. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2492, requesting ₹nan. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3333, requesting ₹158.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2454, requesting ₹181.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3593, requesting ₹132.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹5468, requesting ₹26.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2667, requesting ₹84.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹10139, requesting ₹260.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3887, requesting ₹162.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4180, requesting ₹182.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3675, requesting ₹108.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹19484, requesting ₹600.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5923, requesting ₹211.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹5800, requesting ₹132.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8799, requesting ₹258.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹4467, requesting ₹120.0. Credit history: nan. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3333, requesting ₹70.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3400, requesting ₹123.0. Credit history: 0.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹2378, requesting ₹9.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3166, requesting ₹104.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3417, requesting ₹186.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5116, requesting ₹165.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹16666, requesting ₹275.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹6125, requesting ₹187.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹6406, requesting ₹150.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3159, requesting ₹108.0. Credit history: 1.0. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹3087, requesting ₹136.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3229, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1782, requesting ₹107.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3182, requesting ₹161.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6540, requesting ₹205.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1836, requesting ₹90.0. Credit history: 1.0. Loan status: N.
+The applicant is a Female with Graduate education, earning ₹3166, requesting ₹36.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹1880, requesting ₹61.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2787, requesting ₹146.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹4283, requesting ₹172.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2297, requesting ₹104.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Not Graduate education, earning ₹2165, requesting ₹70.0. Credit history: 1.0. Loan status: Y.
+The applicant is a nan with Graduate education, earning ₹4750, requesting ₹94.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹2726, requesting ₹106.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3000, requesting ₹56.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹6000, requesting ₹205.0. Credit history: 1.0. Loan status: N.
+The applicant is a nan with Graduate education, earning ₹9357, requesting ₹292.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3859, requesting ₹142.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹16120, requesting ₹260.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3833, requesting ₹110.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹6383, requesting ₹187.0. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹2987, requesting ₹88.0. Credit history: 0.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹9963, requesting ₹180.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5780, requesting ₹192.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹416, requesting ₹350.0. Credit history: nan. Loan status: N.
+The applicant is a Male with Not Graduate education, earning ₹2894, requesting ₹155.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹5703, requesting ₹128.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3676, requesting ₹172.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹12000, requesting ₹496.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹2400, requesting ₹nan. Credit history: 1.0. Loan status: N.
+The applicant is a Male with Graduate education, earning ₹3400, requesting ₹173.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Not Graduate education, earning ₹3987, requesting ₹157.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹3232, requesting ₹108.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹2900, requesting ₹71.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹4106, requesting ₹40.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹8072, requesting ₹253.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Male with Graduate education, earning ₹7583, requesting ₹187.0. Credit history: 1.0. Loan status: Y.
+The applicant is a Female with Graduate education, earning ₹4583, requesting ₹133.0. Credit history: 0.0. Loan status: N.
