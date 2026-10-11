@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 app = Flask(__name__) 
 
@@ -11,6 +12,5 @@ app.add_url_rule('/','hello',hello)
 app.add_url_rule('/hello','hello_world',hello_world)
 
 if __name__=='__main__':
-    app.debug = True
-    app.run()
-    app.run(debug =True) 
+    # Debug mode exposes an interactive code console; enable it only locally via FLASK_DEBUG=1
+    app.run(debug=os.environ.get("FLASK_DEBUG") == "1") 

@@ -1,3 +1,4 @@
+import os
 from sentence_transformers import SentenceTransformer
 from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
@@ -18,10 +19,10 @@ embedding_model = HuggingFaceEmbeddings(
 db = FAISS.from_texts(documents, embedding_model)
 print(db)
 
-# ✅ Add your OpenAI API key directly
+# Read the OpenAI key from the environment (set OPENAI_API_KEY; never hardcode it)
 llm = ChatOpenAI(
     model_name="gpt-3.5-turbo",
-    openai_api_key="REDACTED"  #  Replace with your actual key
+    openai_api_key=os.environ.get("OPENAI_API_KEY")
 )
 
 # Setup memory and QA chain
